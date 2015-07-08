@@ -1,0 +1,27 @@
+{
+  "name": "vero",
+  "version": "0.0.1",
+  "description": "This is a thin wrapper for Vero's public api",
+  "main": "vero.js",
+  "dependencies": {
+    "superagent": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/devmach/vero"
+  },
+  "keywords": [
+    "vero",
+    "getvero",
+    "api"
+  ],
+  "author": {
+    "name": "Aydin ULFER",
+    "email": "info@devmach.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devmach/vero/issues"
+  },
+  "homepage": "https://github.com/devmach/vero"
+}
